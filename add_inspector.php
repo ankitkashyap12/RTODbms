@@ -142,7 +142,7 @@ span.psw {
 					<div class="footer-grids">
 						<div class="col-md-8 footer-grid">
 							<h4>About Us</h4>
-							<p>  Organisation of the government responsible for maintaining a database of drivers and a database of vehicles for Malgudi.<span>
+							<p>  Organisation of the government responsible for maintaining a databases of drivers and a database of vehicles for Malgudi.<span>
 							    </span></p>
 						</div>
 						<div class="col-md-4 footer-grid">
