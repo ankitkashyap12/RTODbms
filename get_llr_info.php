@@ -2,14 +2,14 @@
 <html>
 <title>LLR Table</title>
 <body>
-<h1><b>RTO Karnataka: LLR Table</b> </h1>
+<h1><b>RTO Malgudi: LLR Table</b> </h1>
 <p><a href="llr_inspector.php"><font color="blue" size="5"><b>Back</b></font></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 <a href="logout.php"><font color="blue" size="5"><b>Logout</b></font></a></p>
 <?php
 
 				session_start();
-				$username=$_SESSION['username']; 
+			$username=$_SESSION['username']; 
 		
    		$conn = mysqli_connect("localhost","root","");
 				if (mysqli_connect_errno())

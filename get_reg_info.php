@@ -2,7 +2,7 @@
 <html>
 <title>Registration Table</title>
 <body>
-<p><h1><b>RTO Karnataka: Registration Table</b></h1></p>
+<p><h1><b>RTO Malgudi: Registration Table</b></h1></p>
 <p><a href="reg_inspector.php"><font color="blue" size="5"><b>Back</b></font></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 <a href="logout.php"><font color="blue" size="5"><b>Logout</b></font></a></p>

@@ -24,6 +24,13 @@ if(!mysqli_query($conn,$sql))
 	echo "not inserted";
 
 }
+if(!mysqli_query($conn,$addr))
+{
+	echo " address not inserted";
+
+}
+
+
 else
 {
 	echo " Registred Successfully";

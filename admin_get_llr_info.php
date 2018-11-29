@@ -2,7 +2,7 @@
 <html>
 <title>LLR Table</title>
 <body>
-<p><h1><b>RTO Karnataka: LLR Table</b></h1></p>
+<p><h1><b>RTO Malgudi: LLR Table</b></h1></p>
 <p><a href="rto_admin.php"><font color="blue" size="5"><b>Back</b></font></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 <a href="admin_logout.php"><font color="blue" size="5"><b>Logout</b></font></a></p>

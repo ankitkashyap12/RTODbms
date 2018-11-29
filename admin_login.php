@@ -105,7 +105,7 @@ span.psw {
 								<span class="icon-bar"></span>
 							</button>
 							<div class="navbar-brand">
-								<h1><a href="index.html">RTO <span>Karnataka</span></a></h1>
+								<h1><a href="index.html">RTO <span>Malgudi</span></a></h1>
 							</div>
 						</div>
 					</div>
@@ -116,7 +116,7 @@ span.psw {
 	<!-- banner -->
 	
 	<!--content-->
-		<h2><p align="center"><font face="Arial Black" color="green">RTO Karnataka Admin Login Page</font></p></h2>
+		<h2><p align="center"><font face="Arial Black" color="green">RTO Malgudi Admin Login Page</font></p></h2>
 
 <form action="admin_login_check.php" method="post" align="center">
   <div class="container">
@@ -139,15 +139,14 @@ span.psw {
 						<div class="col-md-8 footer-grid">
 							<h4>About Us</h4>
 							<p>  Organisation of the Indian government responsible for maintaining a database of drivers and a database of vehicles for Karnataka.<span>
-							    It issues driving licences, organises collection of vehicle excise duty and sells personalised registrations.
-                  It also is responsible to inspect vehicle's insurance and clear the pollution test.</span></p>
+							    </span></p>
 						</div>
 						<div class="col-md-4 footer-grid">
 						<h4>Information</h4>
 							<ul>
-								<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Bengaluru</li>
-								<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>080 2956789</li>
-								<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:karnataka@rto.com"> karnataka@rto.com</a></li>
+								<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Malgudi</li>
+								<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>9066338514</li>
+								<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:karnataka@rto.com"> malgudi@rto.com</a></li>
 								<li><i class="glyphicon glyphicon-time" aria-hidden="true"></i>Mon-Sat 10:00 hr to 17:00 hr</li>
 							</ul>
 						</div>

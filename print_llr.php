@@ -38,7 +38,7 @@ $llr_expiry_date = date("Y-m-d", strtotime("+6 months",strtotime($llr_issue_date
 <br><br><br>
 <table border ="1" cellpadding="10" cellspacing="5" align="center">
 <tr>
-  <td align = "center" colspan="3" ><b>RTO Karnataka</br> Learner's License</b></td>
+  <td align = "center" colspan="3" ><b>RTO Malgudi</br> Learner's License</b></td>
 </tr>
 
 <tr>

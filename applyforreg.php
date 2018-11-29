@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>RTO Karnataka</title>
+<title>RTO Malgudi</title>
 <!--css-->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -44,7 +44,7 @@
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<nav class="link-effect-2" id="link-effect-2">
 								<ul class="nav navbar-nav">
-									<li><a href="home.html"><span data-hover="Home">Home</span></a></li>
+									<li><a href="index.html"><span data-hover="Home">Home</span></a></li>
 									<li><a href="click_llr.php"><span data-hover="LLR">LLR</span></a></li>
 									<li><a href="click_registration.php"><span data-hover="Registration">Registration</span></a></li>
 									<li><a href="click_dl.php"><span data-hover="DL">DL</span></a></li>
@@ -84,12 +84,12 @@
 
 
 						</div>
-						<div class="col-md-3 student-grid">
+						<!--<div class="col-md-3 student-grid">
 							<img src="images/llr1.jpg" class="img-responsive">
 						</div>
 						<div class="col-md-3 student-grid">
 							<img src="images/llr2.jpg" class="img-responsive">
-						</div>
+						</div> -->
 						<div class="clearfix"></div>
 					</div>
 				</div>
@@ -103,16 +103,15 @@
 					<div class="footer-grids">
 						<div class="col-md-8 footer-grid">
 							<h4>About Us</h4>
-							<p>  Organisation of the Indian government responsible for maintaining a database of drivers and a database of vehicles for Karnataka.<span>
-							    It issues driving licences, organises collection of vehicle excise duty and sells personalised registrations.
-                  It also is responsible to inspect vehicle's insurance and clear the pollution test.</span></p>
+							<p>  Organisation of the government responsible for maintaining a database of drivers and a database of vehicles for Malgudi.<span>
+							    </span></p>
 						</div>
 						<div class="col-md-4 footer-grid">
 						<h4>Information</h4>
 							<ul>
-								<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Bengaluru</li>
-								<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>080 2956789</li>
-								<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:karnataka@rto.com"> karnataka@rto.com</a></li>
+								<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Malgudi</li>
+								<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>9066338514</li>
+								<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:karnataka@rto.com"> malgudi@rto.com</a></li>
 								<li><i class="glyphicon glyphicon-time" aria-hidden="true"></i>Mon-Sat 10:00 hr to 17:00 hr</li>
 							</ul>
 						</div>
