@@ -2,7 +2,7 @@
 <html>
 <title>LLR Table</title>
 <body>
-<h1><b>RTO Malgudi: LLR Table</b> </h1>
+<h1><b>RTO : LLR Table</b> </h1>
 <p><a href="llr_inspector.php"><font color="blue" size="5"><b>Back</b></font></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 <a href="logout.php"><font color="blue" size="5"><b>Logout</b></font></a></p>

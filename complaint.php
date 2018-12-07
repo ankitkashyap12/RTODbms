@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>RTO Malgudi</title>
+<title>RTO </title>
 <!--css-->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -41,7 +41,7 @@
 								<span class="icon-bar"></span>
 							</button>
 							<div class="navbar-brand">
-								<h1><a href="index.html">RTO <span>Malgudi</span></a></h1>
+								<h1><a href="index.html">RTO <span></span></a></h1>
 							</div>
 						</div>
 

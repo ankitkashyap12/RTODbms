@@ -2,7 +2,7 @@
 <html>
 <title>License Table</title>
 <body>
-<p><h1><b><u>RTO Karnataka: License Holders</u></b></h1></p>
+<p><h1><b><u>RTO: License Holders</u></b></h1></p>
 <p><a href="rto_admin.php"><font color="blue" size="5"><b>Back</b></font></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 <a href="admin_logout.php"><font color="red" size="5"><b>Logout</b></font></a></p>
